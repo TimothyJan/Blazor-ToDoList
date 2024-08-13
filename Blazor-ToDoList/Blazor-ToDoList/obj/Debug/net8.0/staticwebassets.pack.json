@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-ToDoList\\Blazor-ToDoList\\Blazor-ToDoList\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor-ToDoList.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blazor-ToDoList.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-ToDoList\\Blazor-ToDoList\\Blazor-ToDoList\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-ToDoList\\Blazor-ToDoList\\Blazor-ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-ToDoList\\Blazor-ToDoList\\Blazor-ToDoList\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\janti\\OneDrive\\Documents\\GitHub\\Blazor-ToDoList\\Blazor-ToDoList\\Blazor-ToDoList\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blazor-ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blazor-ToDoList.props",
+      "PackagePath": "build\\Blazor-ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor-ToDoList.props",
+      "PackagePath": "buildMultiTargeting\\Blazor-ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blazor-ToDoList.props",
+      "PackagePath": "buildTransitive\\Blazor-ToDoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
